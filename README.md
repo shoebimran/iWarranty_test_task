@@ -36,8 +36,7 @@ Make sure to include these gems in your Gemfile and run `bundle install` to inst
 
 We use RSpec for testing our application. You can run the test suite using the following command:
 
-```bash
-rspec
+"rspec"
 
 ### Usage
 #### Importing Retailers
