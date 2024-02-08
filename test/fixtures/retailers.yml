@@ -1,0 +1,51 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  directory_category: MyString
+  content_children_count: 1
+  directory_contact__email: MyString
+  directory_contact__fax: MyString
+  directory_contact__mobile: MyString
+  directory_contact__phone: MyString
+  directory_contact__website: MyString
+  content_post_id: 1
+  content_post_slug: MyString
+  content_body: MyText
+  directory_location__street: MyString
+  directory_location__city: MyString
+  directory_location__country: MyString
+  directory_location__address: MyString
+  directory_location__lat: 1.5
+  directory_location__lng: 1.5
+  directory_location__zip: MyString
+  directory_location__state: MyString
+  directory_social__facebook: MyString
+  directory_social__googleplus: MyString
+  directory_social__twitter: MyString
+  content_post_status: MyString
+  content_post_title: MyString
+
+two:
+  directory_category: MyString
+  content_children_count: 1
+  directory_contact__email: MyString
+  directory_contact__fax: MyString
+  directory_contact__mobile: MyString
+  directory_contact__phone: MyString
+  directory_contact__website: MyString
+  content_post_id: 1
+  content_post_slug: MyString
+  content_body: MyText
+  directory_location__street: MyString
+  directory_location__city: MyString
+  directory_location__country: MyString
+  directory_location__address: MyString
+  directory_location__lat: 1.5
+  directory_location__lng: 1.5
+  directory_location__zip: MyString
+  directory_location__state: MyString
+  directory_social__facebook: MyString
+  directory_social__googleplus: MyString
+  directory_social__twitter: MyString
+  content_post_status: MyString
+  content_post_title: MyString
